@@ -1,0 +1,11 @@
+#list-container{
+	display: inline-block;
+	float: left;
+	width: 500px;
+}
+
+#details{
+	display: inline-block;
+	float: right;
+	width: 500px;
+}
